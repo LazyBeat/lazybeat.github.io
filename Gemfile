@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.6.2'
-gem 'minimal-mistakes-jekyll'
+gem 'jekyll'
 gem 'jekyll-include-cache'
+gem 'minimal-mistakes-jekyll'
 
 group :jekyll_plugins do
   gem 'github-pages'
