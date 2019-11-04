@@ -1,0 +1,19 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+# Mac finder artifacts
+.DS_Store
+
+*.sublime-project
+*.sublime-workspace
+.jekyll-cache
+.jekyll-metadata
+_asset_bundler_cache
+codekit-config.json
+example/_site
+node_modules
+npm-debug.log*
+vendor/bundle
