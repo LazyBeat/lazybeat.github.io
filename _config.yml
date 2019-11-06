@@ -6,7 +6,7 @@ locale                   : "ru-RU"
 title                    : "Lazy Beat"
 title_separator          : "-"
 subtitle                 : "сообщество исследователей влияния музыки на поведение человека"
-name                     : "Matvey"
+name                     : "Lazy Beat"
 description              :
 url                      : "https://lazybeat.ru"
 baseurl                  : # the subpath of your site, e.g. "/blog"
