@@ -656,7 +656,7 @@ ru: &DEFAULT_RU
   comments_title             : "Комментарии"
   more_label                 : "Читать далее"
   related_label              : "Вам также может понравиться"
-  follow_label               : "Связаться со мной:"
+  follow_label               : "Связаться с нами:"
   feed_label                 : "RSS-лента"
   powered_by                 : "Сайт работает на"
   website_label              : "Сайт"
@@ -1552,7 +1552,7 @@ hi: &DEFAULT_HI
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
+
 # Catalan
 # --------------
 ca: &DEFAULT_CA
@@ -1604,7 +1604,7 @@ ca: &DEFAULT_CA
   back_to_top                : "Torna a dalt"
 ca-ES:
   <<: *DEFAULT_CA
-  
+
 # Another locale
 # --------------
 #
